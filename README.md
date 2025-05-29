@@ -1,16 +1,11 @@
-Task 2 Completed! 
-
-Customer Ticket Analysis– Future Interns (Track Code: DS)
 
 
-
+Customer Ticket Analysis
 🔹 Tools used: Python (Pandas), Power BI ,Excel
 
 🔹 Skills applied: Exploratory Data Analysis (EDA), Data Cleaning & Preprocessing, Dashboard Design 
 
 🔹 Output: 1-page Power BI Dashboard with 10 visuals 
-
-
 
 ✅ Data Cleaning & Preprocessing
 
@@ -19,8 +14,6 @@ Customer Ticket Analysis– Future Interns (Track Code: DS)
 ✅ Response Time Patterns
 
 ✅ Summary the csv file
-
-
 
 📊 Dashboard Includes: 
 
@@ -34,4 +27,5 @@ Customer Ticket Analysis– Future Interns (Track Code: DS)
 
 - line chart by avarage ticket id by year
 
-- count of sum of resolution time 
+- count of sum of resolution time
+  
